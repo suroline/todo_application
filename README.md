@@ -1,3 +1,3 @@
 # todo_application
 
-1. v1 : JavaScript ES5
+- todos v1 : JavaScript ES5
